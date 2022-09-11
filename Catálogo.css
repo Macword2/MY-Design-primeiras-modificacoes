@@ -1,0 +1,525 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 2422px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 9.125rem;
+  margin: 93px 63px 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 56px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/05.jpg");
+  background-position: 50% 50%;
+  transition-duration: 1s;
+  min-height: 282px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/PaiGremio1.png");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  min-height: 282px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-right: 0;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/06.jpg");
+  background-position: 50% 50%;
+  transition-duration: 1s;
+  min-height: 277px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding-left: 0;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("images/PaiInternacional.png");
+  background-position: 50% 50%;
+  transition-duration: 1s;
+  min-height: 277px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 20px;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("images/101.png");
+  background-position: 50% 50%;
+  transition-duration: 1s;
+  min-height: 282px;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: url("images/9.png");
+  background-position: 50% 50%;
+  transition-duration: 1s;
+  min-height: 282px;
+}
+
+.u-section-1 .u-image-7 {
+  background-image: url("images/onepiece04.jpg");
+  min-height: 281px;
+}
+
+.u-section-1 .u-image-8 {
+  background-image: url("images/Arte_0011.png");
+  min-height: 281px;
+}
+
+.u-section-1 .u-image-9 {
+  background-image: url("images/cafe.PNG");
+  min-height: 289px;
+}
+
+.u-section-1 .u-image-10 {
+  background-image: url("images/vacinada.png");
+  min-height: 289px;
+}
+
+.u-section-1 .u-image-11 {
+  background-image: url("images/olhosreviram.png");
+  min-height: 281px;
+}
+
+.u-section-1 .u-image-12 {
+  background-image: url("images/naodesalinha.png");
+  min-height: 281px;
+}
+
+.u-section-1 .u-image-13 {
+  background-image: url("images/deboas.png");
+  min-height: 283px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2122px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 228px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 228px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 238px;
+  }
+
+  .u-section-1 .u-image-10 {
+    min-height: 238px;
+  }
+
+  .u-section-1 .u-image-11 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-12 {
+    min-height: 232px;
+  }
+
+  .u-section-1 .u-image-13 {
+    min-height: 233px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1794px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 175px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 175px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 182px;
+  }
+
+  .u-section-1 .u-image-10 {
+    min-height: 182px;
+  }
+
+  .u-section-1 .u-image-11 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-12 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-image-13 {
+    min-height: 178px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3128px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 263px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 263px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 273px;
+  }
+
+  .u-section-1 .u-image-10 {
+    min-height: 273px;
+  }
+
+  .u-section-1 .u-image-11 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-12 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-image-13 {
+    min-height: 267px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2810px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+    width: auto;
+    margin-top: 42px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 72px;
+    margin-bottom: 26px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 199px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 195px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 199px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 175px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 199px;
+  }
+
+  .u-section-1 .u-image-6 {
+    min-height: 195px;
+  }
+
+  .u-section-1 .u-image-7 {
+    min-height: 198px;
+    background-position: 50% 50%;
+    transition-duration: 1s;
+  }
+
+  .u-section-1 .u-image-8 {
+    min-height: 199px;
+    transition-duration: 1s;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-9 {
+    min-height: 196px;
+    transition-duration: 1s;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-10 {
+    min-height: 191px;
+    background-position: 50% 50%;
+    transition-duration: 1s;
+  }
+
+  .u-section-1 .u-image-11 {
+    min-height: 194px;
+    transition-duration: 1s;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-12 {
+    min-height: 194px;
+    transition-duration: 1s;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-13 {
+    min-height: 198px;
+    transition-duration: 1s;
+    background-position: 50% 50%;
+  }
+}
+
+.u-section-1 .u-image-1,
+.u-section-1 .u-image-1:before,
+.u-section-1 .u-image-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-1:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.15.39.jpeg) !important;
+}
+
+.u-section-1 .u-image-3,
+.u-section-1 .u-image-3:before,
+.u-section-1 .u-image-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-3:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.16.18.jpeg) !important;
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before,
+.u-section-1 .u-image-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-2:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.16.52.jpeg) !important;
+}
+
+.u-section-1 .u-image-4,
+.u-section-1 .u-image-4:before,
+.u-section-1 .u-image-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-4:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.17.06.jpeg) !important;
+}
+
+.u-section-1 .u-image-5,
+.u-section-1 .u-image-5:before,
+.u-section-1 .u-image-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-5:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.24.46.jpeg) !important;
+}
+
+.u-section-1 .u-image-6,
+.u-section-1 .u-image-6:before,
+.u-section-1 .u-image-6 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-6:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.25.12.jpeg) !important;
+}
+
+.u-section-1 .u-image-7,
+.u-section-1 .u-image-7:before,
+.u-section-1 .u-image-7 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-7:before {
+  background-image: url(images/WhatsAppImage2022-08-06at21.00.02.jpeg) !important;
+}
+
+.u-section-1 .u-image-7.u-image-7.u-image-7:hover:before {
+  background-position: 50% 13.75% !important;
+}
+
+.u-section-1 .u-image-8,
+.u-section-1 .u-image-8:before,
+.u-section-1 .u-image-8 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-8:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.57.21.jpeg) !important;
+}
+
+.u-section-1 .u-image-9,
+.u-section-1 .u-image-9:before,
+.u-section-1 .u-image-9 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-9:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.55.25.jpeg) !important;
+}
+
+.u-section-1 .u-image-9.u-image-9.u-image-9:hover:before {
+  background-position: 50% 35.46% !important;
+}
+
+.u-section-1 .u-image-11,
+.u-section-1 .u-image-11:before,
+.u-section-1 .u-image-11 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-11:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.52.55.jpeg) !important;
+}
+
+.u-section-1 .u-image-11.u-image-11.u-image-11:hover:before {
+  background-position: 50% 39.42% !important;
+}
+
+.u-section-1 .u-image-12,
+.u-section-1 .u-image-12:before,
+.u-section-1 .u-image-12 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-12:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.52.34.jpeg) !important;
+}
+
+.u-section-1 .u-image-12.u-image-12.u-image-12:hover:before {
+  background-position: 50% 39.42% !important;
+}
+
+.u-section-1 .u-image-10,
+.u-section-1 .u-image-10:before,
+.u-section-1 .u-image-10 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-10:before {
+  background-image: url(images/WhatsAppImage2022-08-06at20.53.41.jpeg) !important;
+}
+
+.u-section-1 .u-image-10.u-image-10.u-image-10:hover:before {
+  background-position: 50% 36.77% !important;
+}
+
+.u-section-1 .u-image-13,
+.u-section-1 .u-image-13:before,
+.u-section-1 .u-image-13 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-13:before {
+  background-image: url(images/2.jpg) !important;
+}
+
+.u-section-1 .u-image-13.u-image-13.u-image-13:hover:before {
+  background-position: 50% 36.78% !important;
+}
