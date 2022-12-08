@@ -39,7 +39,7 @@
           <div class="u-custom-menu u-nav-container">
             <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Sobre.html" style="padding: 10px;">Sobre</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Contato.html" style="padding: 10px;">Contato</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="MY-Design-sublimação.html" style="padding: 10px;">MY | Design</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="MY-Design-sublimação.html" style="padding: 10px;">Início</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
@@ -48,7 +48,7 @@
                 <div class="u-menu-close"></div>
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Sobre.html">Sobre</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contato.html">Contato</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="MY-Design-sublimação.html">MY | Design</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="MY-Design-sublimação.html">Início</a>
 </li></ul>
               </div>
             </div>
@@ -64,11 +64,10 @@
             <h2 class="u-custom-font u-font-playfair-display u-text u-text-default u-text-1">Conte conosco!</h2>
             <p class="u-large-text u-text u-text-variant u-text-2">Entre em contato pelo whatsapp agora mesmo, informe no corpo da mensagem que nos encontrou pelo site e ganhe instantâneamente um brinde na sua primeira compra! Vai ficar de fora dessa?</p>
             <div class="u-social-icons u-spacing-44 u-social-icons-1">
-              <a class="u-social-url" title="Facebook" target="_blank" href="https://nicepage.com/website-builder"><span class="u-file-icon u-icon u-social-facebook u-social-icon u-icon-1"><img src="images/725289.png" alt=""></span>
+             
+              <a class="u-social-url" title="twitter" target="_blank" href="https://wa.me/5551991217863?text=Eu%20tenho%20interesse%20em%20produtos%20personalizados%20do%20MY%20|%20Design"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/1383269.png" alt=""></span>
               </a>
-              <a class="u-social-url" title="twitter" target="_blank" href="https://wa.me/5551994099402?text=Eu%20tenho%20interesse%20em%20produtos%20personalizados%20do%20MY%20|%20Design"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/1383269.png" alt=""></span>
-              </a>
-              <a class="u-social-url" title="Instagram" target="_blank" href="https://www.instagram.com/my.caneca/"><span class="u-file-icon u-icon u-social-icon u-social-instagram u-icon-3"><img src="images/725278.png" alt=""></span>
+              <a class="u-social-url" title="Instagram" target="_blank" href="https://www.instagram.com/mydesign.grafica/"><span class="u-file-icon u-icon u-social-icon u-social-instagram u-icon-3"><img src="images/725278.png" alt=""></span>
               </a>
               <a class="u-social-url" target="_blank" data-type="Custom" title="Shopee" href="https://shopee.com.br/shop/393238679/"><span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-4"><img src="images/3081648.png" alt=""></span>
               </a>
@@ -82,19 +81,9 @@
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-c6e9"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Instagram: <a href="https://www.instagram.com/my.caneca/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" target="_blank">@MY.CANECA</a>
           <br>Shopee:&nbsp;<a href="https://shopee.com.br/shop/393238679/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" target="_blank">Lojinha</a>
-          <br>WhatsApp:&nbsp;<a href="https://wa.me/5551994099402?text=Eu%20tenho%20interesse%20em%20produtos%20personalizados%20do%20MY%20|%20Design" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" target="_blank">Clique Aqui</a>
+          
         </p>
       </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
-      </a>. 
-    </section>
+   
   
 </body></html>
